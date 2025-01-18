@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ef24966-9ed4-4fe3-9d36-6bfa08d35cf2" name="Changes" comment="">
+    <list default="true" id="2ef24966-9ed4-4fe3-9d36-6bfa08d35cf2" name="Changes" comment="Project running python 3.11 and numpy 2.0.2">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,7 +46,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Taylor/AppData/Local/Programs/Python/Python313/python.exe",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "configurable.group.project"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -99,6 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737004569885</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project running python 3.11 and numpy 2.0.2">
+      <option name="closed" value="true" />
+      <created>1737175061845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737175061845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project running python 3.11 and numpy 2.0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project running python 3.11 and numpy 2.0.2" />
   </component>
 </project>
