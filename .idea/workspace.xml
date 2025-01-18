@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ef24966-9ed4-4fe3-9d36-6bfa08d35cf2" name="Changes" comment="Project running python 3.11 and numpy 2.0.2">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2ef24966-9ed4-4fe3-9d36-6bfa08d35cf2" name="Changes" comment="Starter code added. Includes hard coded solutions for milestone A">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +13,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ArcAgiProject" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -22,6 +22,9 @@
     &quot;assignee&quot;: &quot;TaylorNguyen17&quot;
   }
 }</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="780de3f7-c1c8-4f4e-8a20-cb3275bb7046" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/TaylorNguyen17/ArcAgiProject.git&quot;,
@@ -46,7 +49,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Taylor/AppData/Local/Programs/Python/Python313/python.exe",
-    "settings.editor.selected.configurable": "configurable.group.project"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -107,11 +110,20 @@
       <option name="project" value="LOCAL" />
       <updated>1737175061845</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Starter code added. Includes hard coded solutions for milestone A">
+      <option name="closed" value="true" />
+      <created>1737188644231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737188644231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project running python 3.11 and numpy 2.0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project running python 3.11 and numpy 2.0.2" />
+    <MESSAGE value="Starter code added. Includes hard coded solutions for milestone A" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starter code added. Includes hard coded solutions for milestone A" />
   </component>
 </project>
